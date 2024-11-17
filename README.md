@@ -6,6 +6,9 @@ A React frontend, a Node.js Express backend API, and an agile SCRUM-inspired wor
 
 dressup is a web application that allows users to upload pictures of their clothes and create personalized outfit combinations. The application is built using React and utilizes the CSS-in-JS tool Emotion and Express and Node.js for the backend API. This repository wiki provides sprint backlogs, test reports and all necessary documentation.
 
+## Visit Wiki!
+https://github.com/beatalinnea/dressup/wiki
+
 ## Source Code
 
 The source code for the backend and the frontend is provided in this repository, each directory contains a README.md to provide more information.
